@@ -1,0 +1,18 @@
+Exercício 2 Para todos os testes desenvolvidos anteriormente, responda e justifique.
+1. Quantas suítes de testes você desenvolveu?
+R: 1 suite de teste 
+
+2. Os testes desenvolvidos são manuais ou automatizados?
+R: Autimatizada 
+
+3. Onde os testes se localizam na pirâmide apresentada?
+R: Teste de integração 
+
+4. Os testes desenvolvidos são funcionais ou não-funcionais?
+R: Teste funcional 
+
+5. Alguns dos testes desenvolvidos são testes Fim-a-Fim (End-To-End)?
+R: Não 
+
+6. O que se deve fazer para que os testes desenvolvidos funcionem em modo regressão?
+Criar um grupo de teste s mais abrangente e que cubra todos os principais fluxos, criar um sistema de CI para manter os testes atualizados. 
